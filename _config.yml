@@ -1,0 +1,14 @@
+layout_spectrum: 0.7553192
+typography_spectrum: 0.5858397
+color:
+  saturation: 0.5744681
+  lightness: 0.8276595
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#0D0D0D'
+    - '#D0D1CF'
+    - '#B4AC9A'
+    - '#917653'
+  rhythmicContrast: 0.680851
+name: Speedwear
