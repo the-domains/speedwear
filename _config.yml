@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5858397
 color:
   saturation: 0.5489362
   brandStrength: 1
@@ -22,5 +21,6 @@ color:
     - '#B4AC9A'
     - '#917653'
   rhythmicContrast: 0.5446808
+typography_spectrum: 0.5021276
 layout_spectrum: 0.7553192
 name: Speedwear
