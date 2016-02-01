@@ -1,3 +1,7 @@
+name: Speedwear
+favicon: null
+layout_spectrum: 0.7553192
+typography_spectrum: 0.5021276
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5489362
-  brandStrength: 1
-  lightness: 0.4744681
   brandColors:
     - '#FFFFFF'
     - '#0D0D0D'
     - '#D0D1CF'
     - '#B4AC9A'
     - '#917653'
+  brandStrength: 0.5
+  lightness: 0.4744681
+  saturation: 0.5489362
   rhythmicContrast: 0.5446808
-typography_spectrum: 0.5021276
-layout_spectrum: 0.7553192
-name: Speedwear
+purpose: []
